@@ -1,0 +1,7 @@
+export { default as Logo } from './Logo/Logo.jsx'
+export { default as SearchBox } from './SearchBox/SearchBox.jsx'
+export { default as Card } from './Card/Card.jsx'
+export { default as CardSkeleton } from './CardSkeleton/CardSkeleton.jsx'
+export { default as Genre } from './Genre/Genre.jsx'
+export { default as GridSection } from './GridSection/GridSection.jsx'
+export { default as Paginations } from './Paginations/Paginations.jsx'

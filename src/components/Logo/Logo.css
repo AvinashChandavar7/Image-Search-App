@@ -1,0 +1,11 @@
+.logo {
+  font-size: 5vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  /* border: 1px solid red; */
+}

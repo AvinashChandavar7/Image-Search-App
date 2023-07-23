@@ -1,0 +1,40 @@
+/* .skeleton {
+  max-width: 100%;
+  width: 300px;
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+
+  border-radius: 4px;
+  background-color: #0f73ee3d;
+}
+
+.skeleton__img {
+  background-color: #0f73ee9a;
+}
+
+.skeleton__img:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -200px;
+  bottom: -200px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(255, 255, 255, 0.4),
+    transparent
+  );
+  animation: skeletonShimmer 1.5s infinite;
+}
+
+@keyframes skeletonShimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: 200px 0;
+  }
+} */

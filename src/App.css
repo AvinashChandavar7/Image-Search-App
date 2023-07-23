@@ -1,0 +1,10 @@
+.app {
+  min-height: 100vh;
+}
+
+.app__fixed {
+  position: sticky;
+  top: 0px;
+  z-index: 92;
+  background-color: var(--background-color);
+}
